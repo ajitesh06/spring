@@ -232,18 +232,14 @@
 <url>
 http://52.91.227.100:8081/nexus/content/repositories/releases/
 </url>
-<url>...</url>
 </repository>
-<repository>...</repository>
 <snapshotRepository>
 <id>nexus</id>
 <name>Snapshot</name>
 <url>
 http://52.91.227.100:8081/nexus/content/repositories/snapshots/
 </url>
-<url>...</url>
 </snapshotRepository>
-<snapshotRepository>...</snapshotRepository>
 </distributionManagement>
 <distributionManagement>...</distributionManagement>
 
