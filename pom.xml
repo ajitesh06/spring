@@ -225,5 +225,21 @@
       </plugin>
     </plugins>
   </reporting>
+<distributionManagement>
+<repository>
+<id>nexus</id>
+<name>Releases</name>
+<url>
+http://52.91.227.100:8081/nexus/content/repositories/releases/
+</url>
+</repository>
+<snapshotRepository>
+<id>nexus</id>
+<name>Snapshot</name>
+<url>
+http://52.91.227.100:8081/nexus/content/repositories/snapshots/
+</url>
+</snapshotRepository>
+</distributionManagement>
 
 </project>
